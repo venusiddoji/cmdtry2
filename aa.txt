@@ -1,1 +1,2 @@
 from cmd line
+second line commit cmd
