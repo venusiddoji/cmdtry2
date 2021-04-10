@@ -1,2 +1,3 @@
 from cmd line
 second line commit cmd
+third line commit cmd
